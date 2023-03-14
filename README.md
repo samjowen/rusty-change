@@ -28,6 +28,7 @@ assert_eq!(
         &Money { value: 5, currency: CurrencyKind::Gbp },
     ]
 );
+```
 
 ## Supported Currencies
 
